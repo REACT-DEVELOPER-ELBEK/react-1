@@ -35,6 +35,9 @@ function About() {
                             <p>Personal choices and the overall personality of the person. </p>
                         </div>
                     </div>
+                    <div className="about__btn">
+                    <button>SIGN UP NOW</button>
+                    </div>
             </div>
         </div>
     </div>
