@@ -5,6 +5,7 @@ import About from "./components/about/About"
 import Strategies from "./components/strategies/Strategies"
 import PriceTable from "./components/price/Price"
 import Comments from "./components/comments/Comments"
+import Info from "./components/info/Info"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
      <Strategies />
      <PriceTable />
      <Comments />
+     <Info />
     </div>
   );
 }

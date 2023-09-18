@@ -1,0 +1,36 @@
+.info{
+    margin-top: 157px;
+    border-radius: 32px;
+    background: #02897A;
+}
+
+.info__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info__content{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.info__content>h2{
+    max-width: 510px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 151.4%; 
+}
+.info__content>button{
+    border-radius: 8px;
+    background: #FFF;
+    color: #02897A;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 13px 35px 7px 33px;
+    width: 150px;
+}
