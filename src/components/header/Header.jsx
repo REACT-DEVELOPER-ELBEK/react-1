@@ -1,5 +1,6 @@
 import React from 'react'
 import './Header.css'
+import '../normalize/Normalize.css'
 
 function Header() {
   return (

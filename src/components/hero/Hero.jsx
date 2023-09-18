@@ -1,5 +1,6 @@
 import React from 'react'
 import './Hero.css'
+import '../normalize/Normalize.css'
 
 function Hero() {
   return (
