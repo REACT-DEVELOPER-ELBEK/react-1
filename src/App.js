@@ -4,6 +4,7 @@ import Hero from "./components/hero/Hero";
 import About from "./components/about/About"
 import Strategies from "./components/strategies/Strategies"
 import PriceTable from "./components/price/Price"
+import Comments from "./components/comments/Comments"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
      <About />
      <Strategies />
      <PriceTable />
+     <Comments />
     </div>
   );
 }
